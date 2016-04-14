@@ -1,0 +1,13 @@
+Tugas Praktikum:
+1. Jelaskan yang dimaksud dengan library dan header file dalam bahasa C.
+	library = kumpulan fungsi-fungsi dalam 1 file
+	header file = file yang berisi prototype/deklarasi (judul, nama dan sintaks) dari sekumpulan fungsi-fungsi dari library tertentu
+2. Jelaskan dan apa fungsi:
+	1. #include = directive
+	2. printf = fungsi
+3. Beri comments tiap baris pada percobaan terakhir dan jelaskan secara singkat dalam 1-2 paragraf
+4. Apa yang anda ketahui tentang:
+	1. Variabel
+	2. Tipe data
+	3. Input/Output
+5. Sebutkan dan jelaskan macam-macam tipe data dalam bahasa C
