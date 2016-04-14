@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1459862832 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/akar.c
+	<stdio.h>
+	<math.h>
+
+1460429408 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/tp1.c
+	<stdio.h>
+
+1456897220 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/bintangSpasi.c
+	<stdio.h>
+
+1460432177 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/tp2.c
+	<stdio.h>
+
+1460433317 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/tp3_deret_aritmatika.c
+	<stdio.h>
+
+1460433889 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/tp3_deret_geometri.c
+	<stdio.h>
+	<math.h>
+
+1460443293 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/p3_diamond.c
+	<stdio.h>
+	<math.h>
+
+1460443973 source:/home/farid/Documents/kuliah/pemrograman-komputer/modul3/p3_diamond_2.c
+	<stdio.h>
+	<math.h>
+
